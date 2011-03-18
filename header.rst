@@ -1,4 +1,4 @@
-.. |logo| image:: /home/deimos/images/logos/saltalug64.png
+.. |logo| image:: ../saltalug64.png
 .. |date| date:: %d de %B de %Y
 .. |time| date:: %H:%M
 
