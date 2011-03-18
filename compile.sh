@@ -25,5 +25,5 @@ cat header.rst "$input" footer.rst | $rst2html $options > "$htmloutput"
 $wkhtmltopdf "$htmloutput" "$pdfoutput"
 
 git add $input $htmloutput $pdfoutput
-git commit -m "Added note $basename"
+git commit -m "Compiled $basename"
 git push
