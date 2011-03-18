@@ -1,18 +1,23 @@
 
-Redacción
+Versiones en linea
+==================
+
+:Como PDF: |pdfshorturl| 
+:Como HTML: |htmlshorturl|
+
+
+Contactos
 =========
 
-:Contacto: Carlos Marcelo Cabrera
-:Email: point_to_null@saltalug.org.ar
-:Celular: 387-4695504
+:Redacción:
+    Carlos Marcelo Cabrera,
+    point_to_null@saltalug.org.ar,
+    Cel. 387-4695504
 
-Entrevistas
-===========
+:Entrevistas:
+    Marco Mansilla,
+    Cel. 387-4631767
 
-Coordinador:
-    :Contacto: Marco Mansilla
-    :Celular: 387-4631767
-
-Co-coodinador:
-    :Contacto: Matias Novoa
-    :Celular: 387-5821240
+:Entrevistas 2:
+    Matias Novoa,
+    Cel. 387-5821240
