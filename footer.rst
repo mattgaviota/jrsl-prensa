@@ -16,8 +16,10 @@ Contactos
 
 :Entrevistas:
     Marco Mansilla,
+    marco@saltalug.org.ar,
     Cel. 387-4631767
 
 :Entrevistas 2:
     Matias Novoa,
+    mattgaviota@saltalug.org.ar,
     Cel. 387-5821240

@@ -29,7 +29,6 @@ input="$@"
     )
 
 basename=$(basename $input .rst)
-options='--stylesheet=html4css1.css --template=template.txt'
 htmloutput="html/$basename.html"
 pdfoutput="pdf/$basename.pdf"
 
@@ -40,16 +39,23 @@ pdfurl="https://github.com/pointtonull/jrsl-prensa/raw/master/$pdfoutput"
 pdfshorturl=$(echo $pdfurl|shorturl)
 
 echo "Generando documento html"
+rst2htmloptions='--stylesheet=html4css1.css --template=template.txt'
 awk -v pdfshorturl="$pdfshorturl" -v htmlshorturl="$htmlshorturl" '
     {
         gsub("\\|pdfshorturl\\|", pdfshorturl)
         gsub("\\|htmlshorturl\\|", htmlshorturl)
         print $0
     }
-' header.rst "$input" footer.rst | $rst2html $options > "$htmloutput"
+' header.rst "$input" footer.rst | $rst2html $rst2htmloptions > "$htmloutput"
 
 echo "Generando documento pdf"
-$wkhtmltopdf "$htmloutput" "$pdfoutput"
+wkhtmltopdfoptions="\
+       --margin-bottom 20\
+       --margin-left 20\
+       --margin-right 20\
+       --margin-top 20\
+"
+$wkhtmltopdf $wkhtmltopdfoptions "$htmloutput" "$pdfoutput"
 
 echo "Publicando documentos en el sitio"
 git add $input $htmloutput $pdfoutput
