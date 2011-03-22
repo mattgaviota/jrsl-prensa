@@ -31,6 +31,8 @@ input="$@"
 basename=$(basename $input .rst)
 htmloutput="html/$basename.html"
 pdfoutput="pdf/$basename.pdf"
+modifydate=$(stat "$input" | awk '
+    /^Modify/{system("date --date=\"" $2 "\" \"+%A %d de %B de %Y\"")}')
 
 echo "Acortando enlaces url"
 htmlurl="https://github.com/pointtonull/jrsl-prensa/blob/master/$input"
@@ -40,10 +42,13 @@ pdfshorturl=$(echo $pdfurl|shorturl)
 
 echo "Generando documento html"
 rst2htmloptions='--stylesheet=html4css1.css --template=template.txt'
-awk -v pdfshorturl="$pdfshorturl" -v htmlshorturl="$htmlshorturl" '
+awk -v pdfshorturl="$pdfshorturl"\
+    -v htmlshorturl="$htmlshorturl"\
+    -v modifydate="$modifydate" '
     {
         gsub("\\|pdfshorturl\\|", pdfshorturl)
         gsub("\\|htmlshorturl\\|", htmlshorturl)
+        gsub("\\|modifydate\\|", modifydate)
         print $0
     }
 ' header.rst "$input" footer.rst | $rst2html $rst2htmloptions > "$htmloutput"

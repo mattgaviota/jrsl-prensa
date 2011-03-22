@@ -1,6 +1,5 @@
 .. |logo| image:: ../saltalug64.png
-.. |date| date:: %d de %B de %Y
-.. |time| date:: %H:%M
+.. |date| date:: |modifydate|
 
 .. header::
 

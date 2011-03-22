@@ -11,8 +11,7 @@ Contactos
 
 :Redacción:
     Carlos Marcelo Cabrera,
-    point_to_null@saltalug.org.ar,
-    Cel. 387-4695504
+    point_to_null@saltalug.org.ar
 
 :Entrevistas:
     Marco Mansilla,
