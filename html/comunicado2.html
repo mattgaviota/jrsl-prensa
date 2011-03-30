@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="Docutils 0.7: http://docutils.sourceforge.net/" />
+<title></title>
+<style type="text/css">
+
+/*
+:Author: David Goodger (goodger@python.org)
+:Id: $Id: html4css1.css 6253 2010-03-02 00:24:53Z milde $
+:Copyright: This stylesheet has been placed in the public domain.
+
+Default cascading style sheet for the HTML output of Docutils.
+
+See http://docutils.sf.net/docs/howto/html-stylesheets.html for how to
+customize this style sheet.
+*/
+
+/* used to expand table */
+table.fullwidth {
+  width: 100%;
+  }
+
+p {
+    text-align: justify
+}
+
+/* used to remove borders from tables and images */
+.borderless, table.borderless td, table.borderless th {
+  text-align: center !important;
+  border: 0 }
+
+table.borderless td, table.borderless th {
+  /* Override padding for "table.docutils td" with "! important".
+     The right padding separates the table cells. */
+  padding: 0 0.5em 0 0 ! important }
+
+.first {
+  /* Override more specific margin styles with "! important". */
+  margin-top: 0 ! important }
+
+.last, .with-subtitle {
+  margin-bottom: 0 ! important }
+
+.hidden {
+  display: none }
+
+a.toc-backref {
+  text-decoration: none ;
+  color: black }
+
+blockquote.epigraph {
+  margin: 2em 5em ; }
+
+dl.docutils dd {
+  margin-bottom: 0.5em }
+
+/* Uncomment (and remove this text!) to get bold-faced definition list terms
+dl.docutils dt {
+  font-weight: bold }
+*/
+
+div.abstract {
+  margin: 2em 5em }
+
+div.abstract p.topic-title {
+  font-weight: bold ;
+  text-align: center }
+
+div.admonition, div.attention, div.caution, div.danger, div.error,
+div.hint, div.important, div.note, div.tip, div.warning {
+  margin: 2em ;
+  border: medium outset ;
+  padding: 1em }
+
+div.admonition p.admonition-title, div.hint p.admonition-title,
+div.important p.admonition-title, div.note p.admonition-title,
+div.tip p.admonition-title {
+  font-weight: bold ;
+  font-family: sans-serif }
+
+div.attention p.admonition-title, div.caution p.admonition-title,
+div.danger p.admonition-title, div.error p.admonition-title,
+div.warning p.admonition-title {
+  color: red ;
+  font-weight: bold ;
+  font-family: sans-serif }
+
+/* Uncomment (and remove this text!) to get reduced vertical space in
+   compound paragraphs.
+div.compound .compound-first, div.compound .compound-middle {
+  margin-bottom: 0.5em }
+
+div.compound .compound-last, div.compound .compound-middle {
+  margin-top: 0.5em }
+*/
+
+div.dedication {
+  margin: 2em 5em ;
+  text-align: center ;
+  font-style: italic }
+
+div.dedication p.topic-title {
+  font-weight: bold ;
+  font-style: normal }
+
+div.figure {
+  margin-left: 2em ;
+  margin-right: 2em }
+
+div.footer, div.header {
+  clear: both;
+  font-size: smaller }
+
+div.line-block {
+  display: block ;
+  margin-top: 1em ;
+  margin-bottom: 1em }
+
+div.line-block div.line-block {
+  margin-top: 0 ;
+  margin-bottom: 0 ;
+  margin-left: 1.5em }
+
+div.sidebar {
+  margin: 0 0 0.5em 1em ;
+  border: medium outset ;
+  padding: 1em ;
+  background-color: #ffffee ;
+  width: 40% ;
+  float: right ;
+  clear: right }
+
+div.sidebar p.rubric {
+  font-family: sans-serif ;
+  font-size: medium }
+
+div.system-messages {
+  margin: 5em }
+
+div.system-messages h1 {
+  color: red }
+
+div.system-message {
+  border: medium outset ;
+  padding: 1em }
+
+div.system-message p.system-message-title {
+  color: red ;
+  font-weight: bold }
+
+div.topic {
+  margin: 2em }
+
+h1.section-subtitle, h2.section-subtitle, h3.section-subtitle,
+h4.section-subtitle, h5.section-subtitle, h6.section-subtitle {
+  margin-top: 0.4em }
+
+h1.title {
+  text-align: center }
+
+h2.subtitle {
+  text-align: center }
+
+hr.docutils {
+  width: 75% }
+
+img.align-left, .figure.align-left, object.align-left {
+  clear: left ;
+  float: left ;
+  margin-right: 1em }
+
+img.align-right, .figure.align-right, object.align-right {
+  clear: right ;
+  float: right ;
+  margin-left: 1em }
+
+img.align-center, .figure.align-center, object.align-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.align-left {
+  text-align: left }
+
+.align-center {
+  clear: both ;
+  text-align: center }
+
+.align-right {
+  text-align: right }
+
+/* reset inner alignment in figures */
+div.align-right {
+  text-align: left }
+
+/* div.align-center * { */
+/*   text-align: left } */
+
+ol.simple, ul.simple {
+  margin-bottom: 1em }
+
+ol.arabic {
+  list-style: decimal }
+
+ol.loweralpha {
+  list-style: lower-alpha }
+
+ol.upperalpha {
+  list-style: upper-alpha }
+
+ol.lowerroman {
+  list-style: lower-roman }
+
+ol.upperroman {
+  list-style: upper-roman }
+
+p.attribution {
+  text-align: right ;
+  margin-left: 50% }
+
+p.caption {
+  font-style: italic }
+
+p.credits {
+  font-style: italic ;
+  font-size: smaller }
+
+p.label {
+  white-space: nowrap }
+
+p.rubric {
+  font-weight: bold ;
+  font-size: larger ;
+  color: maroon ;
+  text-align: center }
+
+p.sidebar-title {
+  font-family: sans-serif ;
+  font-weight: bold ;
+  font-size: larger }
+
+p.sidebar-subtitle {
+  font-family: sans-serif ;
+  font-weight: bold }
+
+p.topic-title {
+  font-weight: bold }
+
+pre.address {
+  margin-bottom: 0 ;
+  margin-top: 0 ;
+  font: inherit }
+
+pre.literal-block, pre.doctest-block {
+  margin-left: 2em ;
+  margin-right: 2em }
+
+span.classifier {
+  font-family: sans-serif ;
+  font-style: oblique }
+
+span.classifier-delimiter {
+  font-family: sans-serif ;
+  font-weight: bold }
+
+span.interpreted {
+  font-family: sans-serif }
+
+span.option {
+  white-space: nowrap }
+
+span.pre {
+  white-space: pre }
+
+span.problematic {
+  color: red }
+
+span.section-subtitle {
+  /* font-size relative to parent (h1..h6 element) */
+  font-size: 80% }
+
+table.citation {
+  border-left: solid 1px gray;
+  margin-left: 1px }
+
+table.docinfo {
+  margin: 2em 4em }
+
+table.docutils {
+  margin-top: 0.5em ;
+  margin-bottom: 0.5em }
+
+table.footnote {
+  border-left: solid 1px black;
+  margin-left: 1px }
+
+table.docutils td, table.docutils th,
+table.docinfo td, table.docinfo th {
+  padding-left: 0.5em ;
+  padding-right: 0.5em ;
+  vertical-align: middle }
+
+table.docutils th.field-name, table.docinfo th.docinfo-name {
+  font-weight: bold ;
+  text-align: left ;
+  white-space: nowrap ;
+  padding-left: 0 }
+
+h1 tt.docutils, h2 tt.docutils, h3 tt.docutils,
+h4 tt.docutils, h5 tt.docutils, h6 tt.docutils {
+  font-size: 100% }
+
+ul.auto-toc {
+  list-style-type: none }
+
+</style>
+</head>
+<body>
+<div class="document">
+
+
+<p><em>Comunidad informática anuncia que organizará en Salta el evento tecnológico
+más importante del cono sur.</em></p>
+<div class="section" id="festival-latinoamericano-de-instalacion-de-software-libre-salta-2011">
+<h1>FESTIVAL LATINOAMÉRICANO DE INSTALACIÓN DE SOFTWARE LIBRE SALTA 2011</h1>
+<p>FLISOL 2010 se llevará a cabo el sábado 9 de abril. Por sexto año consecutivo
+se celebrará el Festival de Instalación de Software Libre, en unas 200 ciudades
+ineroamericanas, convocando a más de 150.000 personas ávidas de cultura y
+conocimiento. Así es, FLISoL es el evento de difusión de Software Libre más
+grande del mundo.</p>
+<p>Para tal fin, las diversas comunidades locales de software libre organizan
+eventos en los que se instala, de manera gratuita, software libre en las
+computadoras que llevan los asistentes.  Ofreciendo, en forma paralela,
+charlas, ponencias y talleres sobre temáticas locales, nacionales y
+latinoamericanas en torno al Software Libre, en toda su gama de expresiones:
+artística, académica, empresaria y social.</p>
+<table border="1" class="docutils">
+<colgroup>
+<col width="8%" />
+<col width="92%" />
+</colgroup>
+<thead valign="bottom">
+<tr><th class="head">Hora</th>
+<th class="head">Actividad</th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr><td>10:00</td>
+<td><em>Filosofía, historia y actualidad</em>, Ing. Diego Saravia</td>
+</tr>
+<tr><td>11:00</td>
+<td><em>Creación rápida de sitios web con Joomla</em> Ing. Miguel Tolaba</td>
+</tr>
+<tr><td>12:00</td>
+<td><em>Juegos Libres</em> Nilsa Sarmiento, Diego Gil</td>
+</tr>
+<tr><td>13:00</td>
+<td>Receso</td>
+</tr>
+<tr><td>15:00</td>
+<td><em>Aplicaciones libres en windows</em> Lic. Ernesto Mleziva</td>
+</tr>
+<tr><td>16:00</td>
+<td><em>Notación musical libre</em> Prof. Pablo Herrera</td>
+</tr>
+<tr><td>17:00</td>
+<td><em>Libera tu vieja PC</em> Diego Gil</td>
+</tr>
+<tr><td>18:00</td>
+<td>Cierre</td>
+</tr>
+</tbody>
+</table>
+<p>Una vez al año, en una veintena de países, las Comunidades de Software Libre se
+ponen de acuerdo en ayudar, a quienes aún no se animan solos, a dar el gran
+paso hacia la libertad digital.  En paralelo se suceden otras actividades, como
+charlas, demostraciones y talleres.</p>
+<p>El evento está dirigido a todo público, sin importar el nivel de conocimientos
+técnicos que se posea. Hay para todos los gustos, cultura y arte libre,
+licencias y derecho de autor, etc. También hay actividades orientadas a la
+Empresa, Gobierno y Educación.</p>
+<p>En el marco del FLISOL 2007, el Presidente del Ecuador llamó a utilizar
+Software Libre para garantizar la Soberanía y como medio hacia la integración y
+liberación de América Latina.</p>
+<p>La Educación también tiene su protagonismo, no olvidemos que suelen utilizarse
+las instalaciones universitarias como punto de reunión.</p>
+<p>La entrada es libre y gratuita. Solo se solicita una pre-registro de
+asistencia, que puede realizarse en su sitio web: www.flisol.net El FLISOL se
+supera año tras año, esta 4ta edición promete ser memorable.</p>
+<div class="section" id="organizacion">
+<h2>Organización</h2>
+<p>Organiza la Comunidad de Software Libre de Latinoamérica (conformada por
+personas y grupos de diversa índole) con el apoyo de otras entidades,
+principalmente educativas, y los patrocinadores. El evento está dirigido a
+todos los públicos: estudiantes, académicos, empresarios, trabajadores,
+funcionarios públicos, entusiastas y aún a quienes no poseen mucho conocimiento
+informático. La asistencia al evento es totalmente libre y gratuita.</p>
+<p>Quienes asistan tendrán la oportunidad de:</p>
+<ul class="simple">
+<li>instalar Software Libre en su computadora con la ayuda de los miembros más
+expertos de la comunidad</li>
+<li>apreciar al Software Libre como una alternativa madura, más económica y más
+confiable que el modelo privativo de desarrollo y distribución</li>
+<li>conocer las experiencias de adopción, investigación y desarrollo de empresas
+y particulares en torno al Software Libre</li>
+</ul>
+<p>Actividades Charlas: orientadas a los distintos perfiles: comunidad, estado,
+educación, arte y empresas. Un comité designado específicamente se encargará de
+seleccionar las charlas entre las propuestas recibidas.</p>
+<p>Install-Fest: es la oportunidad para que los usuarios no experimentados lleven
+sus computadoras y, junto a los usuarios más expertos, solucionen sus dudas y
+problemas. Se proporcionaran gratuitamente copias de sistemas operativos y
+colecciones de programas libres.</p>
+<p>Objetivos El objetivo principal del evento es hacer difusión del Software
+Libre. Además, se ha constituido como un espacio para el encuentro de los
+distintos actores del ecosistema de la comunidad de Software Libre:</p>
+<p>Comunidad: se ofrecerán actividades orientadas a cuestiones técnicas y
+filosóficas sobre Software Libre.  Educación: Difundir y promover la
+incorporación y utilización de Software Libre en las actividades educativas.
+Mostrar los proyectos existentes, fomentar la creación de nuevos proyectos,
+etc.  Empresas: Destinaremos espacio para que empresas relacionadas con el
+Software Libre muestren sus productos, soluciones y/o servicios.  ONG y
+similares: Aquellas ONG o similares que muestren interés en usar o que tengan
+estructura para difundir el Software Libre también tendrán su espacio en el
+evento.  Arte, Comunicación y Cultura: El Software Libre tanto como herramienta
+de producción cultural como expresión misma de cultura.</p>
+<p>Un nuevo año, una nueva convocatoria al más grande evento de tecnología de
+libre acceso de latinoamérica. Más de 200 ciudades desde Usuahia hasta Madrid
+pasando por las principales ciudades de todos los paises iberoamericanos se
+preparan para el 9 de Abril y Salta no será la excepción. El FLISoL está aquí.</p>
+<p>Este año, en las instalaciones de la Universidad Nacional de Salta (UNSa), se
+realizará un gran festival con talleres, conferencias, muestras técnicas,
+actividades para niños y adultos, eventos culturales y por supuesto, una
+festival de instalación de Software Libre preparada para la llegada  de
+centenares de personas de toda la provincia.</p>
+<p>El Festival Latinoamericano de Instalación de Software Libre (FLISoL) es el
+evento de difusión de Software Libre más grande en Latinoamérica. Se realiza
+desde el año 2005 y desde el 2008 se adoptó su realización el 4to Sábado de
+abril de cada año. En 2011 por única vez será el día 9 de Abril.</p>
+<p>Su principal objetivo es promover el uso del software libre, dando a conocer al
+público en general su filosofía, alcances, avances y desarrollo.</p>
+<p>A tal fin, las diversas comunidades locales de software libre (en cada
+país/ciudad/localidad), organizan simultáneamente eventos en los que se
+instala, de manera gratuita y totalmente legal, software libre en las
+computadoras que llevan los asistentes. Además, en forma paralela, se ofrecen
+charlas, ponencias y talleres, sobre temáticas locales, nacionales y
+latinoamericanas en torno al Software Libre, en toda su gama de expresiones:
+artística, académica, empresarial y social.</p>
+<blockquote>
+¿Quién lo organiza?</blockquote>
+<p>La Comunidad de Software Libre en Latinoamérica, conformada por personas y
+grupos de diversa índole, con el apoyo de otras entidades, principalmente
+educativas, y algunos patrocinadores de los eventos en cada localidad.</p>
+<p>¿A quién está dirigido?</p>
+<p>El evento está dirigido a todo tipo de público: estudiantes, académicos,
+empresarios, trabajadores, funcionarios públcios, entusiastas y aun personas
+que no poseen mucho conocimiento informático.</p>
+<p>¿Cuánto cuesta?</p>
+<p>La asistencia al evento es totalmente libre y gratuita.</p>
+<p>¿Qué beneficios obtengo?</p>
+<p>Tendrás la oportunidad de instalar software libre en tu computadora, apreciar
+qué es una real y segura alternativa a otros modelos de desarrollo y
+distribución de software.</p>
+<p>Informarte sobre la filosofía, cultura y organización alrededor del mismo.
+Conocer las experiencias, desarrollos e investigaciones de grupos y entidades
+en torno al Software Libre, tanto a nivel local como nacional e internacional.</p>
+<p>Tal vez encuentres una alternativa/solución en software libre para ti, tu
+empresa, colegio, universidad e, incluso, para tu gobierno.</p>
+<p>Podrás aclarar tus dudas acerca de los temas relacionados y, quizás encuentres
+en el software libre, una alternativa de investigación, empleo y desarrollo
+tecnológico.</p>
+<p>Un comunicado de prensa es un escrito que presenta una novedad relevante para
+quien lo recibe y que debe estar escrito en un lenguaje conciso y sin tapujos.</p>
+<dl class="docutils">
+<dt>Contenido: debe responder a las cuestiones básicas: Qué, Cómo, Cuándo, Dónde,</dt>
+<dd>Quién, Porqué, Para Qué</dd>
+<dt>Consejos:</dt>
+<dd><ul class="first last simple">
+<li>Presentar una novedad</li>
+<li>Interesar al público</li>
+<li>Incluir detalles de poca importancia diluye el efecto</li>
+<li>Identifica al publico objetivo</li>
+<li>Orienta la redacción a él</li>
+<li>La novedad es lo que hacemos, no lo que somos</li>
+<li>No omitir la vuelta a la turca</li>
+<li>Dale el formate que crees le gustará al público</li>
+<li>Un titular corto y claro</li>
+<li>Puede ser complimentado con un sub-título de hasta 12 palabras</li>
+<li>Evita los adjetivos</li>
+<li>Evita los terminos técnicos</li>
+<li>Si es mejor, demuestralo, exponlo</li>
+<li>Establece parametros cualificables creíbles</li>
+<li>¿Como se puede beneficiar el lector? ¿Como obtendrá una ventaja?</li>
+<li>Brinda medios de comunicación</li>
+<li>Permiteles extender la información con enlaces y referencias</li>
+<li>Hazlo breve, muy breve</li>
+<li>Hazlo a menudo, sé regular</li>
+</ul>
+</dd>
+</dl>
+</div>
+<div class="section" id="mas-informacion">
+<h2>Más información</h2>
+<ul class="simple">
+<li><a class="reference external" href="http://saltalug.org.ar">http://saltalug.org.ar</a> Sobre SaltaLUG</li>
+<li><a class="reference external" href="http://flisol.saltalug.org.ar">http://flisol.saltalug.org.ar</a> Sobre Flisol Salta</li>
+<li><a class="reference external" href="http://jornadasregionales.org">http://jornadasregionales.org</a> Sobre las Jornadas Regionales de Software Libre</li>
+</ul>
+</div>
+<div class="section" id="versiones-en-linea">
+<h2>Versiones en linea</h2>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field"><th class="field-name">Como PDF:</th><td class="field-body"><a class="reference external" href="http://alturl.com/9rqgw">http://alturl.com/9rqgw</a></td>
+</tr>
+<tr class="field"><th class="field-name">Como HTML:</th><td class="field-body"><a class="reference external" href="http://alturl.com/tvnrj">http://alturl.com/tvnrj</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="contactos">
+<h2>Contactos</h2>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field"><th class="field-name">Redacción:</th><td class="field-body">Carlos Marcelo Cabrera,
+<a class="reference external" href="mailto:point_to_null&#64;saltalug.org.ar">point_to_null&#64;saltalug.org.ar</a></td>
+</tr>
+<tr class="field"><th class="field-name">Entrevistas:</th><td class="field-body">Marco Mansilla,
+<a class="reference external" href="mailto:marco&#64;saltalug.org.ar">marco&#64;saltalug.org.ar</a>,
+Cel. 387-4631767</td>
+</tr>
+<tr class="field"><th class="field-name">Entrevistas 2:</th><td class="field-body">Matias Novoa,
+<a class="reference external" href="mailto:mattgaviota&#64;saltalug.org.ar">mattgaviota&#64;saltalug.org.ar</a>,
+Cel. 387-5821240</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</body>
+</html>
