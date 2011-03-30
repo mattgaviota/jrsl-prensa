@@ -5,17 +5,11 @@ Instalación de Software Libre*
 Festival de instalación de Software Libre en Salta
 ==================================================
 
-Un nuevo año, una nueva convocatoria al más grande evento de tecnología de
-libre acceso de latinoamérica. Más de 200 ciudades desde Usuahia hasta Madrid
-pasando por las principales ciudades de todos los paises iberoamericanos se
-preparan para el 9 de Abril y Salta no será la excepción. El FLISoL está aquí.
-
-FLISoL 2011 se llevará a cabo el sábado 9 de abril en las instalaciones de la
-Universidad Nacional de Salta. Este es el sexto año consecutivo que se
-celebrará el Festival de Instalación de Software Libre en unas 200 ciudades
-iberoamericanas, convocando a más de 150.000 personas ávidas de cultura y
-conocimiento. FLISoL es el evento de difusión de Software Libre más importante
-del mundo.
+Un nuevo año, una nueva convocatoria al más grande evento de tecnología. Más de
+200 ciudades desde Usuahia hasta Madrid pasando por las principales localidades
+de todos los paises iberoamericanos se preparan para el 9 de Abril y Salta no
+será la excepción. FLISoL 2011 se llevará a cabo el sábado 9 de abril en las
+instalaciones de la Universidad Nacional de Salta.
 
 SaltaLUG está coordinando la sede provincial de este evento donde se instalará,
 de manera gratuita, software libre en las computadoras que llevan los
@@ -53,12 +47,6 @@ Install-Fest: es la oportunidad para que los usuarios no experimentados lleven
 sus computadoras y, junto a los usuarios más expertos, solucionen sus dudas y
 problemas. Se proporcionaran gratuitamente copias de sistemas operativos y
 colecciones de programas libres.
-
-Este año, en las instalaciones de la Universidad Nacional de Salta (UNSa), se
-realizará un gran festival con talleres, conferencias, muestras técnicas,
-actividades para niños y adultos, eventos culturales y por supuesto, un
-festival de instalación de Software Libre preparado para la llegada  de
-centenares de personas de toda la provincia.
 
 Más información
 ===============
