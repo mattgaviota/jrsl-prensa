@@ -10,7 +10,7 @@ libre acceso de latinoamérica. Más de 200 ciudades desde Usuahia hasta Madrid
 pasando por las principales ciudades de todos los paises iberoamericanos se
 preparan para el 9 de Abril y Salta no será la excepción. El FLISoL está aquí.
 
-FLISoL 2010 se llevará a cabo el sábado 9 de abril en las instalaciones de la
+FLISoL 2011 se llevará a cabo el sábado 9 de abril en las instalaciones de la
 Universidad Nacional de Salta. Este es el sexto año consecutivo que se
 celebrará el Festival de Instalación de Software Libre en unas 200 ciudades
 iberoamericanas, convocando a más de 150.000 personas ávidas de cultura y
@@ -41,9 +41,10 @@ Quienes asistan tendrán la oportunidad de:
 
 - instalar Software Libre en su computadora con la ayuda de los miembros más
   expertos de la comunidad
-- apreciar al Software Libre como una alternativa madura, más económica y más
-  confiable
-- conocer las experiencias de adopción, investigación y desarrollo
+- encontrar alternativas/soluciones de software libre para ellos, sus colegios y
+  empresas
+- aclarar sus dudas acerca de temas relaciones y, quizás, encrontrar en el
+  Software Libre una alternativa de investigación, empleo y desarrollo
 
 La asistencia al evento es totalmente libre y gratuita. Tan sólo se cobrará $20
 por el certificado de asistencia a quienes deseen pedirlo.
@@ -58,21 +59,6 @@ realizará un gran festival con talleres, conferencias, muestras técnicas,
 actividades para niños y adultos, eventos culturales y por supuesto, un
 festival de instalación de Software Libre preparado para la llegada  de
 centenares de personas de toda la provincia.
-
-Tendrás la oportunidad de instalar software libre en tu computadora, apreciar
-qué es una real y segura alternativa a otros modelos de desarrollo y
-distribución de software.
-
-Informarte sobre la filosofía, cultura y organización alrededor del mismo.
-Conocer las experiencias, desarrollos e investigaciones de grupos y entidades
-en torno al Software Libre, tanto a nivel local como nacional e internacional.
-
-Tal vez encuentres una alternativa/solución en software libre para ti, tu
-empresa, colegio, universidad e, incluso, para tu gobierno.
-
-Podrás aclarar tus dudas acerca de los temas relacionados y, quizás encuentres
-en el software libre, una alternativa de investigación, empleo y desarrollo
-tecnológico. 
 
 Más información
 ===============
