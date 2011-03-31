@@ -24,12 +24,12 @@ podemos todos aprovecharlas.
 ===== =============================================================
 Hora  Conferencia
 ===== =============================================================
-10:00 *Filosofía, historia y actualidad*, Ing. Diego Saravia
-11:00 *Creación rápida de sitios web con Joomla* Ing. Miguel Tolaba
-12:00 *Juegos Libres* Nilsa Sarmiento, Diego Gil
-15:00 *Aplicaciones libres en windows* Lic. Ernesto Mleziva
-16:00 *Notación musical libre* Prof. Pablo Herrera
-17:00 *Libera tu vieja PC* Diego Gil
+10:00 **Filosofía, historia y actualidad**, Ing. Diego Saravia
+11:00 **Creación rápida de sitios web con Joomla** Ing. Miguel Tolaba
+12:00 **Juegos Libres** Nilsa Sarmiento, Diego Gil
+15:00 **Aplicaciones libres en windows** Lic. Ernesto Mleziva
+16:00 **Notación musical libre** Prof. Pablo Herrera
+17:00 **Libera tu vieja PC** Diego Gil
 ===== =============================================================
 
 Empresas: Las empresas salteñas relacionadas con el Software Libre tendrán un
