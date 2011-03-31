@@ -14,8 +14,8 @@
         |      | |date|, Salta, Argentina                     |
         +------+----------------------------------------------+
 
-*Se organizará en la UNSa la sexta edición del Festival Latinoamericano de
-Instalación de Software Libre*
+**Se organizará en la UNSa la sexta edición del Festival Latinoamericano de
+Instalación de Software Libre**
 
 ==================================================
 Festival de instalación de Software Libre en Salta
