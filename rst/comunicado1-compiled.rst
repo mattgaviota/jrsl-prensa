@@ -1,6 +1,6 @@
 
 .. |logo| image:: ../saltalug64.png
-.. |date| date:: 18 de marzo de 2011
+.. |date| date:: 31 de marzo de 2011
 
 .. header::
 
@@ -14,8 +14,8 @@
         |      | |date|, Salta, Argentina                     |
         +------+----------------------------------------------+
 
-*Comunidad informática anuncia que organizará en Salta el evento tecnológico
-más importante del cono sur.*
+**Comunidad informática anuncia que organizará en Salta el evento tecnológico
+más importante del cono sur.**
 
 =====================================================================
 SALTA SERÁ SEDE ESTE AÑO DE LAS JORNADAS REGIONALES DE SOFTWARE LIBRE

@@ -1,5 +1,5 @@
-*Comunidad informática anuncia que organizará en Salta el evento tecnológico
-más importante del cono sur.*
+**Comunidad informática anuncia que organizará en Salta el evento tecnológico
+más importante del cono sur.**
 
 =====================================================================
 SALTA SERÁ SEDE ESTE AÑO DE LAS JORNADAS REGIONALES DE SOFTWARE LIBRE
