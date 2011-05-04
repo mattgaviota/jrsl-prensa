@@ -54,7 +54,7 @@ Versiones en linea
 ==================
 
 :Como PDF: http://alturl.com/sk3d9 
-:Como HTML: http://alturl.com/cn7xx
+:Como HTML: http://alturl.com/ngk7d
 
 
 Contactos
