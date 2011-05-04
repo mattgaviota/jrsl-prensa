@@ -1,5 +1,5 @@
 
-.. |logo| image:: ../saltalug64.png
+.. |logo| image:: http://github.com/pointtonull/jrsl-prensa/raw/master/files/saltalug64.png
 .. |date| date:: 31 de marzo de 2011
 
 .. header::
