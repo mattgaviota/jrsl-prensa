@@ -1,4 +1,5 @@
-.. |logo| image:: ../saltalug64.png
+
+.. |logo| image:: http://github.com/pointtonull/jrsl-prensa/raw/master/files/saltalug64.png
 .. |date| date:: |modifydate|
 
 .. header::
@@ -10,6 +11,6 @@
         +------+----------------------------------------------+
         |      | Grupo de Usuarios de Software Libre de Salta |
         ||logo|+----------------------------------------------+
-        |      | Salta, Argentina, |date|                     |
+        |      | |date|, Salta, Argentina                     |
         +------+----------------------------------------------+
 
