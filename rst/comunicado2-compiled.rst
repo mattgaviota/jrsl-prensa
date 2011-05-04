@@ -1,5 +1,5 @@
 
-.. |logo| image:: ../saltalug64.png
+.. |logo| image:: http://github.com/pointtonull/jrsl-prensa/raw/master/files/saltalug64.png
 .. |date| date:: 31 de marzo de 2011
 
 .. header::
@@ -73,7 +73,7 @@ Versiones en linea
 ==================
 
 :Como PDF: http://alturl.com/9rqgw 
-:Como HTML: http://alturl.com/tvnrj
+:Como HTML: http://alturl.com/zp2kv
 
 
 Contactos
