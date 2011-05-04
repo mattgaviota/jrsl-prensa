@@ -1,3 +1,7 @@
 *.py?
+accounts.txt
+noaccounts.txt
+direcciones.txt
+omitir.txt
 *.sw?
 .todo.*
