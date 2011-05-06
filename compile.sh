@@ -36,7 +36,7 @@ modifydate=$(stat "$input" | awk '
     /^Modify/{system("date --date=\"" $2 "\" \"+%d de %B de %Y\"")}')
 
 echo "Acortando enlaces url"
-htmlurl="https://github.com/pointtonull/jrsl-prensa/blob/master/$input"
+htmlurl="https://github.com/pointtonull/jrsl-prensa/blob/master/$compiledrst"
 htmlshorturl=$(echo $htmlurl|shorturl)
 pdfurl="https://github.com/pointtonull/jrsl-prensa/raw/master/$pdfoutput"
 pdfshorturl=$(echo $pdfurl|shorturl)
@@ -66,7 +66,13 @@ wkhtmltopdfoptions="\
 "
 $wkhtmltopdf $wkhtmltopdfoptions "$htmloutput" "$pdfoutput"
 
+echo "Preparando posible envío masivo"
+cp $compiledrst mensaje.txt
+cp $htmloutput mensaje.html
+
 echo "Publicando documentos en el sitio"
-git add $input $compiledrst $htmloutput $pdfoutput
+git add $input $compiledrst $htmloutput $pdfoutput mensaje.txt mensaje.html
 git commit -m "compiled $basename $modifydate"
 git push
+
+echo "Todo salió, aparentemente, bien xD"
