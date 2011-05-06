@@ -1,20 +1,22 @@
-**
-**
+**Se trata del primer evento de este tipo en la región**
 
 ===================================================
 Invitación a Jornada de Software Libre en El Carril
 ===================================================
 
-El grupo de usuarios de Software Libre de Salta (SaltaLUG) y la escuela Técnica
-Evaristo Carriego (de El Carril) tienen el agrado de invitarlos a participar
+El grupo de usuarios de Software Libre de Salta (SaltaLUG) y el colegio
+Ejercito del Norte (de El Carril) tenemos el agrado de invitarlos a participar
 de la primera Jornada de Software Libre de El Carril.
 
 Con este evento buscamos difundir las ventajas que la adopción de la cultura de
 conocimiento libre y desarrollo colaborativo representan para los estudiantes y
-profesionales de las áreas informaticas. 
+profesionales de las áreas informáticas. Disertarán alumnos de la comunidad
+educativa, miembros de SaltaLUG, académicos y profesionales del medio.
 
-Para la realización de las charlas participarán alumnos de la comunidad
-educativa, miembros de SaltaLUG, academicos y profesionales del medio.
+Se llevará a cabo el día Sábado 21 de mayo de 2011 en el salón principal de
+colegio Ejercito del Norte, Nº 5.029, El Carril. La asistencia al evento es
+totalmente libre y gratuita y no se requieren conocimientos previos. El
+cronograma previsto es el siguiente:
 
 ===== ==============================================================
 Hora  Actividades / charlas
@@ -29,12 +31,12 @@ Hora  Actividades / charlas
 13:50 **Cierre**
 ===== ==============================================================
 
-El mismo se llevará a cabo el día Sábado 21 de mayo de 2011 en el salón de la
-escuela técnica de El Carril. La asistencia al evento es totalmente libre y
-gratuita. No se requieren conocimientos previos, esta es una buena oportunidad
-para aprender.
+Con este evento continua SaltaLUG preparando la llegada a Salta de las Jornadas
+Regionales de Software Libre, el evento tecnológico más importante del cono
+sur.
 
 Más información
 ===============
 
 - http://saltalug.org.ar Sobre SaltaLUG y otros eventos que organiza
+- http://jornadasregionales.org Sobre las Jornadas Regionales de Software Libre
