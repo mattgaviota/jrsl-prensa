@@ -1,4 +1,5 @@
-**Se trata del primer evento de este tipo en la región**
+**Se trata del primer evento de este tipo en la región y buscará impulsar la
+producción de tecnología libre**
 
 ===================================================
 Invitación a Jornada de Software Libre en El Carril
