@@ -1,11 +1,15 @@
-**Se organizará en la UNSa la sexta edición del Festival Latinoamericano de
-Instalación de Software Libre**
+**El evento será libre y gratuito y se realizará el Sábado 21 de Mayo de 9 a
+14 horas**
 
-==================================================
-Festival de instalación de Software Libre en Salta
-==================================================
+===============================================================
+Invitación a Jornada de difusión de Software Libre en El Carril
+===============================================================
 
-Un nuevo año, una nueva convocatoria al más grande evento de tecnología. Más de
+El grupo de usuarios de Software Libre de Salta (SaltaLUG) y la escuela Técnica
+Evaristo Carriego (de El Carril) los invita a participar del 
+
+
+, Un nuevo año, una nueva convocatoria al más grande evento de tecnología. Más de
 200 ciudades desde Usuahia hasta Madrid pasando por las principales localidades
 de todos los paises iberoamericanos se preparan para el 9 de Abril y Salta no
 será la excepción. FLISoL 2011 se llevará a cabo el sábado 9 de abril en las
