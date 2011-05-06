@@ -67,7 +67,7 @@ wkhtmltopdfoptions="\
 $wkhtmltopdf $wkhtmltopdfoptions "$htmloutput" "$pdfoutput"
 
 echo "Preparando posible envío masivo"
-cp $input mensaje.txt
+cp awk '/^\*\*/{pub=1}pub' $compiledrst > mensaje.txt
 cp $htmloutput mensaje.html
 
 echo "Publicando documentos en el sitio"
