@@ -66,7 +66,8 @@ Contactos
     mattgaviota@saltalug.org.ar,
     Cel. 387-5821240
 
---
+----
+
 Este mail le es enviado por única vez con la esperanza de que le resulte
 útil o de interés. Si desea dejar de recibir estas notificaciones escriba a
-esta dirección un mail con el título "dar de baja".
+esta dirección un mail con el asunto "dar de baja".
