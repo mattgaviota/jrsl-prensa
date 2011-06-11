@@ -40,9 +40,10 @@ superior a Windows porque:
     - suite de offimatica: procesador de textos, editor de hojas de calculo,
       editor de presentaciones, lector de PDFs, ect.
     - utilidades web: navegador, cliente de correo, mensajeria instantánea,
-      gestor de descargas
+      gestor de descargas, ect.
     - utilidades multimedia: reproductor de películas, reproductor y
-      organizador de música, editor de videos, editor de fotografías, ect.
+      organizador de música, editor de videos, editor de fotografías, editor
+      de gráficos vectoriales, ect.
 
 El objectivo de este curso es acercar esta alternativa al gran público
 ofreciendo una solida base de conocimientos sobre la que luego se podrá
