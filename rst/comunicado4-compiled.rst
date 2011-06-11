@@ -25,46 +25,23 @@ El grupo de usuarios de Software Libre de Salta (SaltaLUG) y la Facultad de
 Ciencias Exactas de la UNSa tenemos el agrado de invitarlos a participar del
 Curso de "Operador de PC GNU/Linux Ubuntu".
 
+GNU/Linux es un sistema operativo libre y gratuito que es técnicamente muy
+superior a Windows:
+    - No tiene virus porque está diseñado para hacer sólo lo que el usuario
+      quiere que haga y porque detrás de él hay millones de programadores
+      (mucho más que los cientos de windows) buscando y reparando fallas.
+    - No se cuelga haciendo perder trabajos.
+    - Incluye todo lo necesario para cubrir las necesidades de la gran mayoría
+      de los usuarios: procesador de textos, editor de hojas de calculo,
+      juegos, visor de imágenes, navegador web, cliente de correo electronico,
+      editor de imágenes, mensajeria instantánea, reproductor de películas, 
+      reproductor y organizador de música, lector de PDFs, ect.
+    - No relentece con el paso del tiempo ni requiere ser instalado
+      todos los años.
+
 El mismo ofrece la oportunidad de adquirir una sólida base de conocimientos
 sobre GNU/Linux y desarrollar la capacidad de comprensión sobre temás más
 avanzados. El mismo está destinado a Alumnos, Docentes y Público en General.
-
-Ventajas:
-
-- Es libre
-- Es gratis y legal
-- No tiene virus
-    - porque tiene una gestión de permisos que funciona
-    - porque el código fuente puede ser consultado por cualquiera lo que hace
-      dificil que una falla pase desapercibida
-    - si una falla es detectada en linux se la arregla en horas, windows nunca
-      tardó menos de un mes en arreglar una falla y hay fallas que ya
-      cumplieron la mayoría de edad y aún no han sido resueltas
-    - el tiempo promedio para que una PC con Windows conectada a internet se
-      infecte es de 40 minutos.
-- Es mucho más estable
-    - Basta de perder trabajos porque el sistema se cuelga
-    - Puede andar años sin fallar ni ser reiniciado
-- Windows incluye:
-    - accesorios: juegos, calculadora, visor de imágenes, ect.
-- GNU/Linux Incluye:
-    - todo lo que necesitas para escribir textos, editar hojas de cálculo,
-      hacer presentaciones ordenadas, dibujar, editar ecuaciones
-    - accesorios: juegos, calculadora, visor de imágenes, ect.
-    - un navegador web (e.g. Firefox)
-    - un cliente de correo (e.g. Thunderbird o Evolution)
-    - un editor de imágenes (GIMP) más poderoso que Photoshop
-    - un programa de mensajeria instantánea
-    - un gestor de paquetes
-    - un reproductor de películas
-    - un reproductor y organizador de música
-    - un lector de PDF
-    - todo lo que necesitas para descomprimir archivos (ZIP, etc.)
-- No necesita defragmentación (no relentece con el uso como windows)
-- Windows tiene un buen número de fallos de diseño, que lo vuelven
-  insoportablemente lento tras un poco de uso obligando a reinstalarlo, si
-  instalas un GNU/Linux en 5 años estará tan rápido como hoy. 
-- Puedes instalar GNU/Linux sin necesidad de borrar Windows
 
 Detalles del curso:
 
