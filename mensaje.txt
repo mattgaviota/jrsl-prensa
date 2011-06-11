@@ -10,7 +10,8 @@ Ciencias Exactas de la UNSa tenemos el agrado de invitarlos a participar del
 Curso de "Operador de PC GNU/Linux Ubuntu".
 
 GNU/Linux es un sistema operativo libre y gratuito que es técnicamente muy
-superior a Windows:
+superior a Windows porque:
+
     - No tiene virus porque está diseñado para hacer sólo lo que el usuario
       quiere que haga y porque detrás de él hay millones de programadores
       (mucho más que los cientos de windows) buscando y reparando fallas.
