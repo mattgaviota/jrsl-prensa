@@ -29,6 +29,43 @@ El mismo ofrece la oportunidad de adquirir una sólida base de conocimientos
 sobre GNU/Linux y desarrollar la capacidad de comprensión sobre temás más
 avanzados. El mismo está destinado a Alumnos, Docentes y Público en General.
 
+Ventajas:
+
+- Es libre
+- Es gratis y legal
+- No tiene virus
+    - porque tiene una gestión de permisos que funciona
+    - porque el código fuente puede ser consultado por cualquiera lo que hace
+      dificil que una falla pase desapercibida
+    - si una falla es detectada en linux se la arregla en horas, windows nunca
+      tardó menos de un mes en arreglar una falla y hay fallas que ya
+      cumplieron la mayoría de edad y aún no han sido resueltas
+    - el tiempo promedio para que una PC con Windows conectada a internet se
+      infecte es de 40 minutos.
+- Es mucho más estable
+    - Basta de perder trabajos porque el sistema se cuelga
+    - Puede andar años sin fallar ni ser reiniciado
+- Windows incluye:
+    - accesorios: juegos, calculadora, visor de imágenes, ect.
+- GNU/Linux Incluye:
+    - todo lo que necesitas para escribir textos, editar hojas de cálculo,
+      hacer presentaciones ordenadas, dibujar, editar ecuaciones
+    - accesorios: juegos, calculadora, visor de imágenes, ect.
+    - un navegador web (e.g. Firefox)
+    - un cliente de correo (e.g. Thunderbird o Evolution)
+    - un editor de imágenes (GIMP) más poderoso que Photoshop
+    - un programa de mensajeria instantánea
+    - un gestor de paquetes
+    - un reproductor de películas
+    - un reproductor y organizador de música
+    - un lector de PDF
+    - todo lo que necesitas para descomprimir archivos (ZIP, etc.)
+- No necesita defragmentación (no relentece con el uso como windows)
+- Windows tiene un buen número de fallos de diseño, que lo vuelven
+  insoportablemente lento tras un poco de uso obligando a reinstalarlo, si
+  instalas un GNU/Linux en 5 años estará tan rápido como hoy. 
+- Puedes instalar GNU/Linux sin necesidad de borrar Windows
+
 Detalles del curso:
 
 - Modalidad Semi-presencial, Martes y Jueves a partir de las 18 Hs.
