@@ -1,3 +1,19 @@
+
+.. |logo| image:: http://github.com/pointtonull/jrsl-prensa/raw/master/files/saltalug64.png
+.. |date| date:: 11 de junio de 2011
+
+.. header::
+
+    .. class:: borderless
+    .. class:: center
+    .. class:: fullwidth
+
+        +------+----------------------------------------------+
+        |      | Grupo de Usuarios de Software Libre de Salta |
+        ||logo|+----------------------------------------------+
+        |      | |date|, Salta, Argentina                     |
+        +------+----------------------------------------------+
+
 **La Facultad de Ciencias Exactas, autorizó el Re-Dictado del curso de
 extensión dictado por miembros de SaltaLUG**
 
@@ -75,9 +91,3 @@ Contactos
     Matias Novoa,
     mattgaviota@saltalug.org.ar,
     Cel. 387-5821240
-
-----
-
-Este mail le es enviado por única vez con la esperanza de que le resulte
-útil o de interés. Si desea dejar de recibir estas notificaciones escriba a
-esta dirección un mail con el asunto "dar de baja".
