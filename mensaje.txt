@@ -38,6 +38,7 @@ inicio el Martes 21 de Junio a 18 Hs., tendrá una duración de 50 Hs. cátedra 
 entragrá certificados de asistencia y aprobación. 
 
 Tarifas: 
+
 - Alumnos: $75
 - Docentes y PAU: $150
 - Particulares y Profesionales: $200
