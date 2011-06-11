@@ -47,19 +47,16 @@ superior a Windows porque:
 
 El objectivo de este curso es acercar esta alternativa al gran público
 ofreciendo una solida base de conocimientos sobre la que luego se podrá
-desarrollar la capacidad de comprensión sobre temás más avanzados.
+desarrollar la capacidad de comprensión sobre temás más avanzados. El
+mismo será dictado en modalidad semi-presencial los días Martes y Jueves
+a partir de Hs. 18 en el Aula Virtual de la Facultad de Ciencias Exactas. Dará
+inicio el Martes 21 de Junio a 18 Hs., tendrá una duración de 50 Hs. cátedra y
+entragrá certificados de asistencia y aprobación. 
 
-Detalles del curso:
-
-- Modalidad Semi-presencial, Martes y Jueves a partir de las 18 Hs.
-- Fecha estimada de inicio: Martes 21 de Junio a 18 Hs.
-- Lugar de Dictado: Aula Virtual y EVEA de la Facultad de Ciencias Exactas
-- Certificados de Asistencia y de Aprobación emitidos por la UNSa
-- Duración de 50 horas cátedra
-- Tarifas: 
-    - Alumnos: $75
-    - Docentes y PAU: $150
-    - Particulares y Profesionales: $200
+Tarifas: 
+- Alumnos: $75
+- Docentes y PAU: $150
+- Particulares y Profesionales: $200
 
 Los fondos recaudados serán utilizados para financiar la organización de las
 Jornadas Regionales de Software Libre, el evento más técnologico más
