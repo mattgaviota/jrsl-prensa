@@ -45,8 +45,8 @@ Tarifas:
 - Particulares y Profesionales: $200
 
 Los fondos recaudados serán utilizados para financiar la organización de las
-Jornadas Regionales de Software Libre, el evento más técnologico más
-importante de la región y que se realizará este año en Salta.
+Jornadas Regionales de Software Libre, el evento técnologico más importante de
+la región y que se realizará este año en Salta.
 
 Más información
 ===============
