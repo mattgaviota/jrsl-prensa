@@ -17,9 +17,9 @@ superior a Windows porque:
 - No se cuelga haciendo perder todo el trabajo no guardado.
 - No se hace más lento con el paso del tiempo ni requiere ser reinstalado
   periodicamente.
-- Incluye todos los programas de uso frecuente:
+- Incluye, además de los incluidos en Windows, todos los demás
+  programas programas de uso frecuente:
 
-    - accesorios: juegos, herramientas de administración
     - suite de offimatica: procesador de textos, editor de hojas de calculo,
       editor de presentaciones, lector de PDFs, ect.
     - utilidades web: navegador, cliente de correo, mensajeria instantánea,
@@ -35,12 +35,10 @@ Detalles del curso:
 
 - Modalidad Semi-presencial, Martes y Jueves a partir de las 18 Hs.
 - Fecha estimada de inicio: Martes 21 de Junio a 18 Hs.
-- Lugar de Dictado: Aula Virtual de la Facultad de Ciencias Exactas
-- Plataforma virtual: http://moodlexa.unsa.edu.ar
-- Certificados de Asistencia y de Aprobación por la UNSa
+- Lugar de Dictado: Aula Virtual y EVEA de la Facultad de Ciencias Exactas
+- Certificados de Asistencia y de Aprobación emitidos por la UNSa
 - Duración de 50 horas cátedra
-- Tarifas:
-
+- Tarifas: 
     - Alumnos: $75
     - Docentes y PAU: $150
     - Particulares y Profesionales: $200
