@@ -28,22 +28,20 @@ Curso de "Operador de PC GNU/Linux Ubuntu".
 GNU/Linux es un sistema operativo libre y gratuito que es técnicamente muy
 superior a Windows porque:
 
-    - No tiene virus; está diseñado para hacer sólo lo que el usuario quiere
-      que haga y porque detrás de él hay millones de programadores (mucho más
-      que los cientos detrás de windows) buscando y reparando fallas.
-    - No se cuelga haciendo perder todo el trabajo no guardado.
-    - No se hace más lento con el paso del tiempo ni requiere ser instalado
-      todos los años.
-    - Incluye todo lo necesario para cubrir las necesidades de la gran mayoría
-      de los usuarios:
+- No tiene virus; está diseñado para hacer sólo lo que el usuario quiere que
+  haga y detrás de él hay millones de programadores buscando y reparando fallas.
+- No se cuelga haciendo perder todo el trabajo no guardado.
+- No se hace más lento con el paso del tiempo ni requiere ser reinstalado
+  periodicamente.
+- Incluye todos los programas de uso frecuente:
 
-        - suite de offimatica: procesador de textos, editor de hojas de calculo,
-          editor de presentaciones, lector de PDFs, ect.
-        - accesorios: juegos, visor de imágenes, herramientas de administración
-        - utilidades web: navegador, cliente de correo, mensajeria instantánea,
-          gestor de descargas
-        - utilidades multimedia: reproductor de películas, reproductor y
-          organizador de música, editor de videos, editor de fotografías, ect.
+    - accesorios: juegos, herramientas de administración
+    - suite de offimatica: procesador de textos, editor de hojas de calculo,
+      editor de presentaciones, lector de PDFs, ect.
+    - utilidades web: navegador, cliente de correo, mensajeria instantánea,
+      gestor de descargas
+    - utilidades multimedia: reproductor de películas, reproductor y
+      organizador de música, editor de videos, editor de fotografías, ect.
 
 El objectivo de este curso es acercar esta alternativa al gran público
 ofreciendo una solida base de conocimientos sobre la que luego se podrá
