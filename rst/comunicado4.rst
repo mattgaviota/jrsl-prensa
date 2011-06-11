@@ -1,33 +1,35 @@
 **La Facultad de Ciencias Exactas, autorizó el Re-Dictado del curso de
 extensión organizado por miembros de SaltaLUG**
 
-=================================================
-En la UNSa: Curso Operador de PC GNU/Linux Ubuntu
-=================================================
+==============================================
+En la UNSa: Curso Operador de GNU/Linux Ubuntu
+==============================================
 
 El grupo de usuarios de Software Libre de Salta (SaltaLUG) y la Facultad de
 Ciencias Exactas de la UNSa tenemos el agrado de invitarlos a participar del
-Curso de Operador de PC GNU/Linux Ubuntu.
+Curso de "Operador de PC GNU/Linux Ubuntu".
 
-Este curso ofrece la oportunidad de adquirir una sólida base de conocimientos
+El mismo ofrece la oportunidad de adquirir una sólida base de conocimientos
 sobre GNU/Linux y desarrollar la capacidad de comprensión sobre temás más
 avanzados. El mismo está destinado a Alumnos, Docentes y Público en General.
 
 Detalles del curso:
 
-- Forma de dictado: Semi Presencial, Dias Martes y Jueves a partir de las 18 Hs
-- Fecha estimada de inicio: Martes 21 de Junio a 18 Hs
-- Lugar de Dictado: Aula Virtual de la Facultad de Ciencias Exactas y EVEA
-- Se entregarán Certificados de Asistencia y de Aprobación.
-- Tendrá una duración de 50 (cincuenta) horas cátedra.
-- Tarifas:
+- Modalidad Semi-presencial, Martes y Jueves a partir de las 18 Hs.
+- Fecha estimada de inicio: Martes 21 de Junio a 18 Hs.
+- Lugar de Dictado: Aula Virtual de la Facultad de Ciencias Exactas
+- Plataforma virtual: http://moodlexa.unsa.edu.ar
+- Certificados de Asistencia y de Aprobación por la UNSa
+- Duración de 50 horas cátedra
+- Tarifas (descuentos para alumnos y docentes de cualquier institución de
+  educación formal provincial y nacional):
     - Alumnos: $75
-    - Docentes y PAU $150
+    - Docentes y PAU: $150
     - Particulares y Profesionales: $200
 
-
-Lo recaudado será destinado a la organización de las Jornadas Regionales de
-Software Libre.
+Los fondos recaudados serán utilizados para financiar la organización de las
+Jornadas Regionales de Software Libre, el evento más técnologico más
+importante de la región y que se realizará este año en Salta.
 
 Más información
 ===============
@@ -35,5 +37,4 @@ Más información
 - http://alturl.com/8iry6 Pre-inscripción al curso
 - http://saltalug.org.ar Sobre SaltaLUG y otros eventos que organiza
 - http://exactas.unsa.edu.ar Sitio de la Facultad de Ciencias Exactas, UNSa
-- http://moodlexa.unsa.edu.ar EVEA de la Facultad de Ciencias Exactas, UNSa
 - http://jornadasregionales.org Sobre las Jornadas Regionales de Software Libre
