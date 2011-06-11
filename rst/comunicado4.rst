@@ -27,9 +27,6 @@ superior a Windows porque:
       gestor de descargas
     - utilidades multimedia: reproductor de películas, reproductor y
       organizador de música, editor de videos, editor de fotografías, ect.
-  
-  Es bueno aclarar que casi ningún programa (salvo el solitario y la
-  calculadora es incluido con windows).
 
 El objectivo de este curso es acercar esta alternativa al gran público
 ofreciendo una solida base de conocimientos sobre la que luego se podrá
