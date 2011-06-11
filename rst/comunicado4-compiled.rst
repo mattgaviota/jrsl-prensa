@@ -49,9 +49,10 @@ El objectivo de este curso es acercar esta alternativa al gran público
 ofreciendo una solida base de conocimientos sobre la que luego se podrá
 desarrollar la capacidad de comprensión sobre temás más avanzados. El
 mismo será dictado en modalidad semi-presencial los días Martes y Jueves
-a partir de Hs. 18 en el Aula Virtual de la Facultad de Ciencias Exactas. Dará
-inicio el Martes 21 de Junio a 18 Hs., tendrá una duración de 50 Hs. cátedra y
-entragrá certificados de asistencia y aprobación. 
+a partir de 18 Hs. en el Aula Virtual de la Facultad de Ciencias Exactas.
+Comenzará el Martes 21 de Junio a 18 Hs., y tendrá una duración de 50 Hs.
+cátedra. Se entregarán certificados de asistencia y aprobación emitidos por el
+departamento de extensión de la Universidad Nacional de Salta.
 
 Tarifas: 
 
