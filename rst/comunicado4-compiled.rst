@@ -36,6 +36,7 @@ superior a Windows porque:
       todos los años.
     - Incluye todo lo necesario para cubrir las necesidades de la gran mayoría
       de los usuarios:
+
         - suite de offimatica: procesador de textos, editor de hojas de calculo,
           editor de presentaciones, lector de PDFs, ect.
         - accesorios: juegos, visor de imágenes, herramientas de administración
