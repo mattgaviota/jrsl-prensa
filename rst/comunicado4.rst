@@ -17,8 +17,8 @@ superior a Windows porque:
 - No se cuelga haciendo perder todo el trabajo no guardado.
 - No se hace más lento con el paso del tiempo ni requiere ser reinstalado
   periodicamente.
-- Incluye, además de los incluidos en Windows, todos los demás
-  programas programas de uso frecuente:
+- Incluye, además de los incluidos en Windows, todos los programas de uso
+  frecuente:
 
     - suite de offimatica: procesador de textos, editor de hojas de calculo,
       editor de presentaciones, lector de PDFs, ect.
