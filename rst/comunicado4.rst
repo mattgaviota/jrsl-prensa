@@ -13,7 +13,8 @@ GNU/Linux es un sistema operativo libre y gratuito que es técnicamente muy
 superior a Windows porque:
 
 - No tiene virus; está diseñado para hacer sólo lo que el usuario quiere que
-  haga y detrás de él hay millones de programadores buscando y reparando fallas.
+  haga y detrás de él hay millones de programadores buscando y reparando
+  fallas constantemente.
 - No se cuelga haciendo perder todo el trabajo no guardado.
 - No se hace más lento con el paso del tiempo ni requiere ser reinstalado
   periodicamente.
@@ -26,6 +27,9 @@ superior a Windows porque:
       gestor de descargas
     - utilidades multimedia: reproductor de películas, reproductor y
       organizador de música, editor de videos, editor de fotografías, ect.
+  
+  Es bueno aclarar que casi ningún programa (salvo el solitario y la
+  calculadora es incluido con windows).
 
 El objectivo de este curso es acercar esta alternativa al gran público
 ofreciendo una solida base de conocimientos sobre la que luego se podrá
