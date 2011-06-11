@@ -21,8 +21,7 @@ Detalles del curso:
 - Plataforma virtual: http://moodlexa.unsa.edu.ar
 - Certificados de Asistencia y de Aprobación por la UNSa
 - Duración de 50 horas cátedra
-- Tarifas (descuentos para alumnos y docentes de cualquier institución de
-  educación formal provincial y nacional):
+- Tarifas:
     - Alumnos: $75
     - Docentes y PAU: $150
     - Particulares y Profesionales: $200
