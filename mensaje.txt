@@ -10,9 +10,6 @@ Ciencias Exactas de la UNSa e IANUX Soluciones tenemos el agrado de invitarlos
 a participar del las primeras Jornada de Seguridad Informática en nuestra
 provincia (Primera Edición: Salta 2011)
 
-Toda la información detallada:
-http://www.uid0.com.ar/
-
 Objetivo general: Consolidar un espacio en donde se pueda difundir
 conocimientos relativos a la seguridad informática (políticas, tendencias,
 técnicas de intrusión, vulnerabilidades, etc.).
@@ -104,7 +101,7 @@ Hora          Conferencia
               Ing. Omar Lozano
 12:00 a 13:00 **Seguridad en MANets (Mobile Ad-hoc Networks)**
               C.U. Sergio Rocabado
-13:00 a 15:00 Intermedio para almorzar
+13:00 a 15:00 *Intermedio para almorzar*
 14:30 a 15:30 **Extensiones de seguridad para DNS**
               C.U. Ernesto Sanchez
 15:30 a 16:30 **Ataques, Contramedidas y Hardening Linux**
@@ -119,24 +116,36 @@ Competencia
 -----------
 
 Viernes 19 de Agosto
-10:00 a 18:00 Capture The Flag (CTF) 
-Gabriel Ramirez, Pablo Cañizares, Matias Suarez
-Nota: Traer Notebook y sus propias tools para poder participar de esta
-competencia.
+
+============= =============================================================
+Hora          Conferencia
+============= =============================================================
+10:00 a 18:00 **Capture The Flag (CTF)**
+              Gabriel Ramirez, Pablo Cañizares, Matias Suarez
+              Nota: Traer Notebook y sus propias tools para poder participar de 
+              esta competencia.
+============= =============================================================
 
 Talleres
 --------
 
 Sábado 20 de Agosto
-10:00 a 14:00 Taller de BackTrack 5 Gabriel Ramirez, Oscar Gonzalez
-14:00 a 15:30 Intermedio para almorzar
-15:30 a 18:30 Taller de programación de Exploit Juan Sacco
-(insecurityresearch.com) 
+
+============= =============================================================
+Hora          Taller
+============= =============================================================
+10:00 a 14:00 **Taller de BackTrack 5**
+              Gabriel Ramirez, Oscar Gonzalez
+14:00 a 15:30 *Intermedio para almorzar*
+15:30 a 18:30 **Taller de programación de Exploit**
+              Juan Sacco (insecurityresearch.com) 
+============= =============================================================
 
 Más información
 ===============
 
-- http://www.uid0.com.ar/Ins​cripciones  Pre-inscripcion e Sitio del evento.
+- http://www.uid0.com.ar/ Toda la información detallada
+- http://www.uid0.com.ar/Inscripciones Pre-inscripcion
 
 Versiones en linea
 ==================
