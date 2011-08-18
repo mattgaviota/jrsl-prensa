@@ -17,10 +17,6 @@
 **La Facultad de Ciencias Exactas, en conjunto con SaltaLUG e IANUX estan
 organizan las primeras jornadas de seguridad informatica en nuestra provincia**
 
-==============================================================================
-UID0 : Parte 1: Jornada de Seguridad Informática – Primera Edición: Salta 2011
-==============================================================================
-
 El grupo de usuarios de Software Libre de Salta (SaltaLUG), la Facultad de
 Ciencias Exactas de la UNSa e IANUX Soluciones tenemos el agrado de invitarlos
 a participar del las primeras Jornada de Seguridad Informática en nuestra
