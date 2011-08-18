@@ -16,9 +16,9 @@ git=$(which git) || (
     echo "Necesita git"
     exit 3 )
 
-git=$(which shorturl) || (
+shorturl=$(which shorturl) || (
     echo "Necesita shorturl (https://github.com/pointtonull/shorturl)"
-    exit 3 )
+    exit 4 )
 
 input="$@"
 
@@ -67,8 +67,17 @@ wkhtmltopdfoptions="\
 $wkhtmltopdf $wkhtmltopdfoptions "$htmloutput" "$pdfoutput"
 
 echo "Preparando posible envío masivo"
-awk '/^\*\*/{pub=1}pub' $compiledrst > mensaje.txt
-cp $htmloutput mensaje.html
+awk -v pdfshorturl="$pdfshorturl"\
+    -v htmlshorturl="$htmlshorturl"\
+    -v modifydate="$modifydate" '
+    {
+        gsub("\\|pdfshorturl\\|", pdfshorturl)
+        gsub("\\|htmlshorturl\\|", htmlshorturl)
+        gsub("\\|modifydate\\|", modifydate)
+        print $0
+    }
+' "$input" footer.rst footer-mail.rst> mensaje.txt
+$rst2html $rst2htmloptions mensaje.txt > mensaje.html
 
 echo "Publicando documentos en el sitio"
 git add $input $compiledrst $htmloutput $pdfoutput mensaje.txt mensaje.html

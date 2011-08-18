@@ -9,16 +9,12 @@ Versiones en linea
 Contactos
 =========
 
-:Redacción:
-    Carlos Marcelo Cabrera,
-    point_to_null@saltalug.org.ar
-
-:Entrevistas:
+:Director ejecutivo SaltaLUG:
     Marco Mansilla,
     marco@saltalug.org.ar,
     Cel. 387-4631767
 
-:Entrevistas 2:
+:Co-coodinador JRSL:
     Matias Novoa,
     mattgaviota@saltalug.org.ar,
     Cel. 387-5821240

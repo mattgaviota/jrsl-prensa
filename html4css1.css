@@ -28,9 +28,12 @@ table.borderless td, table.borderless th {
      The right padding separates the table cells. */
   padding: 0 0.5em 0 0 ! important }
 
+/*Obligado porque rst2html le pone first a todos los elementos ¬¬*/
 .first {
   /* Override more specific margin styles with "! important". */
-  margin-top: 0 ! important }
+  margin-top: 0 ! important;
+  margin-bottom: 0 ! important;
+}
 
 .last, .with-subtitle {
   margin-bottom: 0 ! important }
@@ -307,3 +310,10 @@ h4 tt.docutils, h5 tt.docutils, h6 tt.docutils {
 
 ul.auto-toc {
   list-style-type: none }
+
+
+/*Para evitar el sobreespaciado por mal estilo en las listas*/
+UL LI.first{
+    margin-bottom: 0 !important;
+    }
+
