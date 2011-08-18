@@ -1,3 +1,19 @@
+
+.. |logo| image:: http://github.com/pointtonull/jrsl-prensa/raw/master/files/saltalug64.png
+.. |date| date:: 18 de agosto de 2011
+
+.. header::
+
+    .. class:: borderless
+    .. class:: center
+    .. class:: fullwidth
+
+        +------+----------------------------------------------+
+        |      | Grupo de Usuarios de Software Libre de Salta |
+        ||logo|+----------------------------------------------+
+        |      | |date|, Salta, Argentina                     |
+        +------+----------------------------------------------+
+
 **La Facultad de Ciencias Exactas, en conjunto con SaltaLUG e IANUX estan
 organizan las primeras jornadas de seguridad informatica en nuestra provincia**
 
@@ -137,3 +153,23 @@ Más información
 ===============
 
 - http://www.uid0.com.ar/Ins​cripciones  Pre-inscripcion e Sitio del evento.
+
+Versiones en linea
+==================
+
+:Como PDF: http://alturl.com/f6agf 
+:Como HTML: http://alturl.com/xg2k5
+
+
+Contactos
+=========
+
+:Director ejecutivo SaltaLUG:
+    Marco Mansilla,
+    marco@saltalug.org.ar,
+    Cel. 387-4631767
+
+:Co-coodinador JRSL:
+    Matias Novoa,
+    mattgaviota@saltalug.org.ar,
+    Cel. 387-5821240
